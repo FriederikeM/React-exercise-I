@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  border: 1px solid black;
+  height: 500px;
+  width: 450px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  justify-content: center;
+  align-items: space-between;
+  margin: 20px;
+  margin-left: 24px;
+}

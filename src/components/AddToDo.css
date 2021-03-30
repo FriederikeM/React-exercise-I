@@ -1,0 +1,12 @@
+.addToDo {
+  margin: 13px 15px;
+  padding: 3px 15px;
+  font-size: 16px;
+  border: 1px solid blue;
+  color: blue;
+  background-color: rgb(225, 225, 255);
+}
+
+.addToDo:hover {
+  cursor: pointer;
+}

@@ -1,0 +1,16 @@
+h3 {
+  margin-left: 15px;
+}
+
+.ToDoComponent {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid purple;
+  margin-top: 15px;
+  color: purple;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+}
